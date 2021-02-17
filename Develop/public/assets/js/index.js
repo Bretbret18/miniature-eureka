@@ -1,3 +1,5 @@
+
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
@@ -18,7 +20,7 @@ const show = (elem) => {
 };
 
 // Hide an element
-const hide = (elem) => {
+const hide = (elem) => { ////
   elem.style.display = 'none';
 };
 
