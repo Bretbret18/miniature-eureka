@@ -13,4 +13,4 @@ app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
 
-app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
+app.listen(process.env.PORT || 5000)
