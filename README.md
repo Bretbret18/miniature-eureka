@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+Note taker is an application for creating and saving notes. This application uses a database (json) to save notes. HTML, CSS, and Javascript are the front end languages used and the back end of this app uses node.js and express.js. To use this app clone the code from https://dashboard.heroku.com/apps/note-taker18/deploy/heroku-git and use npm start or node server to start the application's Port!
